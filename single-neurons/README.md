@@ -25,6 +25,7 @@ The simulation is implemented in Python using the `numpy` library for numerical 
 
 The `response` function is the core of the simulation, implementing the Izhikevich equations and the reset condition.
 
+```python
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn
@@ -66,7 +67,7 @@ v[0,4] = -63
 u[0,4] = -16
 v[0,5] = -87
 u[0,5] = -16
-
+```
 ### 📊 Results
 
 The simulation generates plots to visualize the membrane potential over time.
