@@ -1,0 +1,13 @@
+name: neuro
+
+channels:
+  - defaults
+
+dependencies:
+  - python=3.10
+  - pandas
+  - jupyter
+  - numpy
+  - scipy
+  - matplotlib
+  - seaborn
