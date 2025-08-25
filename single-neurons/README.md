@@ -74,7 +74,7 @@ The simulation generates plots to visualize the membrane potential over time.
 #### Regular Spiking Neuron
 
 The first plot illustrates the characteristic behavior of a **regular spiking** neuron, showing a consistent pattern of spikes in response to a constant input current.
-![Regular Spiking Neuron Plot](neuro/A Simple Model of Spiking Neurons/regular_spiking_plot.png)
+![Regular Spiking Neuron Plot](neuro/'A Simple Model of Spiking Neurons'/regular_spiking_plot.png)
 
 #### All Neuron Types
 
