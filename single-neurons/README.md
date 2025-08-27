@@ -25,6 +25,7 @@ The simulation is implemented in Python using the `numpy` library for numerical 
 
 The `response` function is the core of the simulation, implementing the Izhikevich equations and the reset condition.
 
+```python
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn
@@ -66,7 +67,7 @@ v[0,4] = -63
 u[0,4] = -16
 v[0,5] = -87
 u[0,5] = -16
-
+```
 ### 📊 Results
 
 The simulation generates plots to visualize the membrane potential over time.
@@ -74,11 +75,11 @@ The simulation generates plots to visualize the membrane potential over time.
 #### Regular Spiking Neuron
 
 The first plot illustrates the characteristic behavior of a **regular spiking** neuron, showing a consistent pattern of spikes in response to a constant input current.
-![Regular Spiking Neuron Plot](neuro/'A Simple Model of Spiking Neurons'/regular_spiking_plot.png)
+![Regular Spiking Neuron Plot](regular_spiking_plot.png)
 
 #### All Neuron Types
 
 The notebook also generates a comparative plot, showcasing the distinct firing patterns of all the simulated neuron types side-by-side. This visual comparison highlights the model's ability to replicate diverse neural behaviors by simply adjusting a few parameters.
-![All Neuron Types Plot](path/to/your/all_neuron_types_plot.png)
+![All Neuron Types Plot](all_neuron_types_plot.png)
 
 The output of the notebook includes the final values of the membrane potential and recovery variable for the `tc1` and `tc2` neurons, confirming their end states: `-18.618891266945894 -64.41391109256088 -13.521178002359932 -16.103477773160503`.
