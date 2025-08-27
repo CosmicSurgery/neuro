@@ -83,3 +83,11 @@ The notebook also generates a comparative plot, showcasing the distinct firing p
 ![All Neuron Types Plot](all_neuron_types_plot.png)
 
 The output of the notebook includes the final values of the membrane potential and recovery variable for the `tc1` and `tc2` neurons, confirming their end states: `-18.618891266945894 -64.41391109256088 -13.521178002359932 -16.103477773160503`.
+
+## References
+
+- Izhikevich, E. M. (2003).  
+  *Simple model of spiking neurons*.  
+  IEEE Transactions on Neural Networks, **14**(6), 1569–1572.  
+  [https://www.izhikevich.org/publications/spikes.pdf](https://www.izhikevich.org/publications/spikes.pdf)
+
