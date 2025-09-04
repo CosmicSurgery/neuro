@@ -1,7 +1,7 @@
 
 # Recurrent Spiking Network (Pokorny et al., 2020)
 
-Minimal-but-complete Python implementation of the recurrent spiking network from:
+Minimal-but-complete Python implementation to reproduce figures from:
 
 > Pokorny et al., *Cerebral Cortex* (2020) — “STDP Forms Associations between Memory Traces in Networks of Spiking Neurons”.
 
@@ -214,7 +214,7 @@ print(f"Mean E: {E:.2f} Hz, Mean I: {I:.2f} Hz")
 
 ## Citation
 
-If you use this repository, please cite:
+Original paper:
 
 * Pokorny, I., Maass, W., Triesch, J., & Klampfl, S. (2020). *STDP Forms Associations between Memory Traces in Networks of Spiking Neurons.* Cerebral Cortex, 30(9), 5785–5804.
 
