@@ -17,13 +17,7 @@ This code emphasizes **correct model behavior** and a clean, modular layout that
 - [Configuration (read this first!)](#configuration-read-this-first)
 - [Running the Simulator](#running-the-simulator)
 - [Analysis Helpers](#analysis-helpers)
-- [Progress Bars & Checkpoints](#progress-bars--checkpoints)
-- [Tuning Cheat Sheet](#tuning-cheat-sheet)
-- [Sanity & Debug Utilities](#sanity--debug-utilities)
-- [Troubleshooting](#troubleshooting)
-- [Reproducibility](#reproducibility)
 - [Citation](#citation)
-- [License](#license)
 
 ---
 
