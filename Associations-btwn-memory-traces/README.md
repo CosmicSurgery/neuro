@@ -1,6 +1,4 @@
-Absolutely—here’s the **raw README.md** content in a single copy-pastable block. Drop this into a file named `README.md` in your project folder.
 
-```markdown
 # Recurrent Spiking Network (Pokorny et al., 2020)
 
 Minimal-but-complete Python implementation of the recurrent spiking network from:
@@ -222,6 +220,3 @@ If you use this repository, please cite:
 
 ---
 
-
-If you want this split into multiple smaller blocks (e.g., per section) for copy/paste ergonomics, say the word and I’ll break it up.
-```
