@@ -1,2 +1,4 @@
 papers
 *.csv
+*.pyc
+*.ipynb_checkpoints*
